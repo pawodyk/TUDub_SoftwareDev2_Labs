@@ -1,0 +1,9 @@
+h = high value
+l = low value
+m = mid point
+
+(h+l)/2 = m         |x2
+l + (h-l)/2 = m     |x2
+
+h + l = 2m
+2l + h - l = 2m => 2l - l + h = 2m => l + h = 2m
